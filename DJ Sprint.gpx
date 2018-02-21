@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1">
+ <trk>
+  <name>
+   DJ Sprint
+  </name>
+  <trkseg>
+   <trkpt lat="11.5272898828" lon="43.1447669864"/>
+   <trkpt lat="11.5272819985" lon="43.1465667486"/>
+  </trkseg>
+ </trk>
+</gpx>
